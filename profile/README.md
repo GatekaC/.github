@@ -7,4 +7,4 @@ Open-source agents and tools for SMEs — keep your data, run the tech.
 - [gateka.fr](https://github.com/GatekaC/gateka.fr)
 
 ## 👥 Team
-- @gtherin
+- [@gtherin]([https://github.com/GatekaC/bulkhours.fr](https://github.com/gtherin)
